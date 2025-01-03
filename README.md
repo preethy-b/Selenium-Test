@@ -25,3 +25,5 @@ This project holds test cases written for the following:
 - googletrans
 - requests
 
+**Run Command**
+pytest --html=report.html tests\test_Website.py
