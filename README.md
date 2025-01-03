@@ -16,3 +16,12 @@ This project holds test cases written for the following:
     - From the translated headers, identify any words that are repeated more than twice across all headers combined.
     - Print each repeated word along with the count of its occurrences.
 5. Cross-Browser Testing
+
+**Requirements:**
+- python
+- pytest
+- selenium
+- langdetect
+- googletrans
+- requests
+
